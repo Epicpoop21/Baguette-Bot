@@ -1,0 +1,27 @@
+{
+  "name": "baguette_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Epic",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.7.1",
+    "@discordjs/voice": "^0.16.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.56",
+    "discord-player": "^6.6.3",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "mongodb": "4.1",
+    "mongoose": "^7.4.0",
+    "rss-parser": "^3.13.0"
+  }
+}
